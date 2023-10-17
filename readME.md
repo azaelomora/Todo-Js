@@ -10,5 +10,7 @@ Lista de tareas: "TodoList" en lenguaje JS, en el cual, el usuario puede agregar
  * Completados
  ***
 
- También un contadorr de pendientes y un botón para borrar los completados, los cuales se mantendrán aunque se recargue la página, porque se trabaja con el "Local Storage"
- ```
+ También un contador de pendientes
+ y un botón para borrar los completados,
+ los cuales se mantendrán aunque se recargue la página,
+ porque se trabaja con el "Local Storage" ```
